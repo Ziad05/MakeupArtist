@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorDarkGray"
+    tools:context=".SplashScreen">
+
+    <com.makeover.makeupartist.Home.AutoWritingText
+        android:id="@+id/appName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center"
+        android:text="@string/app_name"
+        android:textColor="@color/colorDarkGold"
+        android:textStyle="bold"
+        android:textSize="@dimen/_40ssp"
+        android:fontFamily="serif-monospace"
+        android:layout_gravity="center" />
+
+    <com.makeover.makeupartist.StarAnimationView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:clickable="false"
+        android:focusable="false"
+        android:layout_gravity="top|center_horizontal"/>
+
+</RelativeLayout>

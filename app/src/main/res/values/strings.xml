@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Make Over</string>
+
+    <!--Drawer Item-->
+    <string name="home_Drawer">Home</string>
+    <string name="lip_Art_Idea_Drawer">Lip Art Ideas</string>
+    <string name="eye_Makeup_Drawer">Eye Makeup</string>
+    <string name="nail_Art_Designs">Nail Art Designs</string>
+    <string name="Mehedi_Designs">Mehedi Designs</string>
+    <string name="hair_Style">Hair Style</string>
+    <string name="photo_Gallery">Photo Gallery</string>
+    <string name="video_Gallery">Video Gallery</string>
+    <string name="Share_Drawer">Share</string>
+    <string name="dialog_message">What do you want to see?</string>
+    <string name="Photo">Photo</string>
+    <string name="Video">Video</string>
+    <string name="player_error">Error initializing YouTube player: %s</string>
+
+</resources>

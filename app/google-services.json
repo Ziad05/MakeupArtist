@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "60563694494",
+    "firebase_url": "https://makeover-43311.firebaseio.com",
+    "project_id": "makeover-43311",
+    "storage_bucket": "makeover-43311.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60563694494:android:ba67566f1add4718",
+        "android_client_info": {
+          "package_name": "com.makeover.makeover"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60563694494-fihtdccv627g8mbq1ukbrm7emhp0ep0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwHbxjIiKmTGd7YjQupcFKrLKm0uSiw-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60563694494-fihtdccv627g8mbq1ukbrm7emhp0ep0d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

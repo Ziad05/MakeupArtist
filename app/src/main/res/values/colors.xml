@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorDarkGray">#141412</color>
+    <color name="colorTransParentGray">#80141412</color>
+    <color name="colorDarkGold">#a77600</color>
+    <color name="colorCyan">#009688</color>
+    <color name="colorTransLightGold">#96d6a42c</color>
+    <color name="colorTransparentGold">#19cc9a23</color>
+    <color name="colorWhite">#ffffff</color>
+</resources>
